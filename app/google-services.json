@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722510396877",
+    "project_id": "hihi-f45df",
+    "storage_bucket": "hihi-f45df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722510396877:android:3b748166176ddcf9f71884",
+        "android_client_info": {
+          "package_name": "com.example.homework1_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722510396877-6gnnm9bt2h5858hbgssp4rtsoq1eermk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homework1_6",
+            "certificate_hash": "122126891c1381b63491695332c51cd6ca00e0f4"
+          }
+        },
+        {
+          "client_id": "722510396877-vc5ebggh883a2qscaqss9oqbl57mb9uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtzeiCD09-wAOhc_kBgCpKuhhUwWr2fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722510396877-vc5ebggh883a2qscaqss9oqbl57mb9uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
